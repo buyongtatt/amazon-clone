@@ -12,16 +12,52 @@ function Home() {
           alt=""
         />
         <div className="home__row">
-          <Product />
-          <Product />
+          <Product
+            id="4237592"
+            title="The lean startup"
+            price={29.99}
+            image="https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg"
+            rating={5}
+          />
+          <Product
+            id="4237592"
+            title="The lean startup"
+            price={29.99}
+            image="https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg"
+            rating={5}
+          />
         </div>
         <div className="home__row">
-          <Product />
-          <Product />
-          <Product />
+          <Product
+            id="4237592"
+            title="The lean startup"
+            price={29.99}
+            image="https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg"
+            rating={5}
+          />
+          <Product
+            id="4237592"
+            title="The lean startup"
+            price={29.99}
+            image="https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg"
+            rating={5}
+          />
+          <Product
+            id="4237592"
+            title="The lean startup"
+            price={29.99}
+            image="https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg"
+            rating={5}
+          />
         </div>
         <div className="home__row">
-          <Product />
+          <Product
+            id="4237592"
+            title="The lean startup"
+            price={29.99}
+            image="https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg"
+            rating={5}
+          />
         </div>
       </div>
     </div>
