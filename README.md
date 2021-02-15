@@ -73,6 +73,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Link: https://cl-63edc.firebaseapp.com/
 
+Card Payment: 4242 4242 4242 4242 04/24 242 42424
+
 ### Reference
 
 Youtube: https://youtu.be/RDV3Z1KCBvo
